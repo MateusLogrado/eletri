@@ -11,3 +11,8 @@ img{
     border-radius: 12px;
     border-color: rgb(111, 111, 197);
 }
+
+nav a{
+    color: white;
+    text-decoration: none;
+}
