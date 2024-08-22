@@ -13,6 +13,10 @@ img{
 }
 
 nav a{
-    color: white;
+    color: rgb(97, 143, 202);
     text-decoration: none;
+}
+
+nav{
+    text-align: center;
 }
